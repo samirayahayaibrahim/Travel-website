@@ -81,4 +81,21 @@ h1{
 }
 .destination{
     margin-top: -400px;
-}                                                           
+} 
+
+h3{
+    font: gilda display;
+    font-size: 62px;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom:20px;
+
+}
+.choose{
+    font: urbanist;
+    font-size: 25px;                              
+    text-align: center;
+    color: neutral 900;
+    margin-bottom: 40px;
+    
+}
