@@ -159,6 +159,23 @@ h3{
     width: 100%;
 
 }
+.item2{
+    
+    background-color:#25A59E;
+    margin-inline: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:20px ;
+    padding-bottom: 50px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    justify-content: space-around;
+    height: 240px;
+    background-size: 40px;
+    width: 100%;
+
+}
+
 
 
 
