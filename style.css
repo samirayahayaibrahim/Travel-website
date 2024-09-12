@@ -190,6 +190,13 @@ h3{
     font: gilda display;
     color: white;
 }
+.details{
+    color: white;
+    margin-left: 200px;
+    display: flex;
+    font-size: 20px;
+
+}
 
 
 
