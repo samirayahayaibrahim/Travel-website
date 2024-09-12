@@ -136,9 +136,13 @@ h3{
 }
 
 
-
-
-
+.about{
+    font: (gilda display);
+    font-size: 65px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
 
 
 
