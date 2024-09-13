@@ -201,6 +201,48 @@ h3{
     font: urbanist;
     color: white;
 }
+.memory{
+    font: gilda display;                             
+    font-size: 40px; 
+    margin-bottom: 10px;
+    font-weight: 100px;
+    justify-content:space-around;
+    margin-top: 150px;
+    margin-right: 5px;
+}
+.service{
+    font: urbanist;
+    font-size: 13px;
+    color: neutral;
+    padding-top: 10px;
+    
+
+}
+
+.twoasians{
+    size: 70px;
+    justify-content: end;
+    margin-left: 250px ;          
+}
+.image2{
+    position: absolute;
+    margin-top: 190px;
+    margin-right: 170px;
+}    
+.image1{                                                                                          
+    position: relative;
+    margin-left: 10px;
+    height: 430px;
+    margin-bottom: 40px;
+
+}
+.last{
+    width: 100%;                                                                                           
+    display: flex ;
+    margin-bottom: 20px;
+    padding-bottom: 2px;
+    margin-left: 15px;
+}
 
 
 
