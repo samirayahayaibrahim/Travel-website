@@ -203,7 +203,7 @@ h3{
 }
 .memory{
     font: gilda display;                             
-    font-size: 40px; 
+    font-size: 50px; 
     margin-bottom: 10px;
     font-weight: 100px;
     justify-content:space-around;
@@ -212,12 +212,19 @@ h3{
 }
 .service{
     font: urbanist;
-    font-size: 13px;
+    font-size: 17px;
     color: neutral;
     padding-top: 10px;
     
 
 }
+.t{      
+    
+    font: gilda display;
+    size: 30px;
+    color:#25A59E;                                                          
+    margin-bottom: 200px;}
+
 
 .twoasians{
     size: 70px;
@@ -265,6 +272,24 @@ h3{
     margin-top: 250px;
     height: 80px;
 }
+.Click1{
+    display: flex;
+    margin-top: 300px;
+}
+.click{
+    size: 30px;
+    margin-left: 400px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+
+}
+.offer{
+    
+    font: gilda display;
+    font-size: 60px;
+    margin-left: 40px;
+}
+
 
 
 
