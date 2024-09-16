@@ -75,13 +75,14 @@ h1{
 .travel3{
     position: absolute;
     size: 100%; 
-    margin-bottom: 170px;
-    margin-left: 150px;     
-    height: 104%;
+    margin-bottom: 180px;
+    margin-left: 200px;     
+    height: 94%;
 }
 .destination{
     margin-top: -400px;
 } 
+
 
 h3{
     font: gilda display;
@@ -304,6 +305,18 @@ h3{
     font-size: 40px;
     margin-bottom: 200px;
 }
+.contact{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.us{
+    font-size: 20px;
+    margin-left: 400px;
+    height: 20px;
+}
+
 
 
 
