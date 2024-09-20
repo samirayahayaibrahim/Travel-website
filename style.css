@@ -28,7 +28,7 @@ body{
 }
 .flex{
     display: flex;
-    font-size: 290%;
+    font-size: 400%;
     justify-content: center;
     padding-inline:5px;
     font-family: "gilda dislay";
@@ -50,7 +50,6 @@ h1{
 .asians {
     height: 220px;
     margin-bottom: 65%;
-
 }
 .travel1{
     position: absolute;
@@ -73,7 +72,7 @@ h1{
     position: relative;
     size: 100%; 
     margin-top: 50px;
-    margin-left: 200px;     
+    margin-left: 230px;     
     height: 600px;
 }
 .destination{
@@ -284,8 +283,9 @@ h4{
 .click{
     size: 30px;
     margin-left: 400px;
-    margin-top: 70px;
+    margin-top: 90px;
     margin-bottom: 70px;
+
 
 }
 .offer{
@@ -294,6 +294,7 @@ h4{
     font-size: 60px;
     margin-left: 40px;
     color: #262626;
+    margin-bottom: 20px;
 }
 .agent{
     margin-bottom: 50px;
@@ -305,21 +306,26 @@ h4{
 
 .s{
     
-    font-family: "gilda display";
+    font-family: "urbanist";
     size: 30px;
     color: #25A59E;
     font-size: 40px;
-    margin-bottom: 200px;
+    margin-bottom: 190px;
 }
 .contact{
     display: flex;
     justify-content: space-around;
     width: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 40px;;
+    height: 20px;
+    gap: 5px;
 }
 .us{
     font-size: 20px;
     margin-left: 400px;
-    height: 2px;
-    color: #595959;  
+    height: 5px;
+    color: #595959; 
+    font-family: "urbanist"; 
+    margin-bottom: 80px;
 }
+
