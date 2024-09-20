@@ -17,7 +17,7 @@ body{
     margin-right: 40px;
 }
 .head{
-    font: "gilda display";
+    font-family: "gilda display";
     color: #25A59E;
     font-size: 30px;
     justify-content: right;
@@ -31,7 +31,7 @@ body{
     font-size: 290%;
     justify-content: center;
     padding-inline:5px;
-    font: "gilda dislay";
+    font-family: "gilda dislay";
     text-align: center;
     margin-top: 20px;
     
@@ -80,7 +80,7 @@ h1{
     margin-top: -400px;
 } 
 h3{
-    font: "gilda display";                                                                                                                                                                                                                             
+    font-family: "gilda display";                                                                                                                                                                                                                             
     font-size: 62px;
     text-align: center;
     padding-bottom: 0;
@@ -88,7 +88,7 @@ h3{
     color: #262626;
 }
 .choose{
-    font: "urbanist";
+    font-family: "urbanist";
     font-size: 25px;                              
     text-align: center;
     color: #262626;
@@ -136,7 +136,7 @@ h4{
 }
 
 .about{
-    font: "gilda display";
+    font-family: "gilda display";
     font-size: 60px;
     text-align: center;
     margin-top: 30px;
@@ -179,7 +179,7 @@ h4{
 }
 .support{
     font-size: 35px;
-    font: "gilda display"; 
+    font-family: "gilda display"; 
     color: #262626;                                                              
 }
 .more{
@@ -190,7 +190,7 @@ h4{
 }
 .special{ 
     font-size: 35px;
-    font: "gilda display";
+    font-family: "gilda display";
     color: white;
 }
 .details{
@@ -201,11 +201,11 @@ h4{
 
 }
 .tickets{
-    font: "urbanist";
+    font-family: "urbanist";
     color: white;
 }
 .memory{
-    font: gilda display;                             
+    font-family: "gilda display";                             
     font-size: 50px; 
     margin-bottom: 10px;
     font-weight: 100px;
@@ -215,7 +215,7 @@ h4{
     color: #262626;
 }
 .service{
-    font: "urbanist";
+    font-family: "urbanist";
     font-size: 17px;
     color: #262626;
     padding-top: 10px;
@@ -224,7 +224,7 @@ h4{
 }
 .t{      
     
-    font: "gilda display";
+    font-family: "gilda display";
     size: 30px;
     color:#25A59E;                                                          
     margin-bottom: 200px;}
@@ -290,7 +290,7 @@ h4{
 }
 .offer{
     
-    font: "gilda display";
+    font-family: "gilda display";
     font-size: 60px;
     margin-left: 40px;
     color: #262626;
@@ -305,7 +305,7 @@ h4{
 
 .s{
     
-    font: "gilda display";
+    font-family: "gilda display";
     size: 30px;
     color: #25A59E;
     font-size: 40px;
