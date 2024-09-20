@@ -5,7 +5,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom:0px;
 }
 body{
     margin-top: 90px;
@@ -13,35 +13,33 @@ body{
     
 .p-1{
     height: 25px;
-    margin-top: 20px;
     left: 100px; 
     margin-right: 40px;
 }
 .head{
-    font: gilda display;
-    initial-letter: 10%;
-    padding-top:2px ;
-    line-height: 32.96px;
+    font: "gilda display";
     color: #25A59E;
-    font-weight: 500px;
     font-size: 30px;
     justify-content: right;
     display: flex;
-    margin-top: 20px;
     margin-left: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 .flex{
     display: flex;
-    font-size: 250%;
+    font-size: 290%;
     justify-content: center;
     padding-inline:5px;
-    font: gilda dislay;
+    font: "gilda dislay";
     text-align: center;
-    margin-bottom: 2px;
+    margin-top: 20px;
     
 }
 h1{
     padding-bottom: -20px;
+    color: #262626;
+    ;
 }
 .Travel{
     
@@ -65,45 +63,42 @@ h1{
 }
 .travel2{
     position: absolute;
-    margin-top: 197px;
+    margin-top: 220px;
     size: 200%;
     justify-content:center;
     width: 100%;
-    height: 450px;
-
+    height: 430px;
 }
 .travel3{
-    position: absolute;
+    position: relative;
     size: 100%; 
-    margin-bottom: 180px;
+    margin-top: 50px;
     margin-left: 200px;     
-    height: 94%;
+    height: 600px;
 }
 .destination{
     margin-top: -400px;
 } 
-
-
 h3{
-    font: gilda display;
+    font: "gilda display";                                                                                                                                                                                                                             
     font-size: 62px;
     text-align: center;
     padding-bottom: 0;
     margin-bottom:20px;
-
+    color: #262626;
 }
 .choose{
-    font: urbanist;
+    font: "urbanist";
     font-size: 25px;                              
     text-align: center;
-    color: neutral 900;
+    color: #262626;
     margin-bottom: 40px;
     
 }
 .container{
     display: flex; 
     width: 100%;
-    background-color:#f2f2f2;
+    background:  #f1f1f1;
     justify-content: center;
 
 }
@@ -128,20 +123,25 @@ h3{
 }
 .locationside{
     margin-left: 20px;
-    margin-top: 5px;                                                  
+    margin-top: 5px; 
+    color: #262626;                                                 
 }  
+h4{
+    color: #262626;
+}
 
 .img2{
-    size: 40px;
-    height: 220px;
+    size: 50px;
+    height: 270px;
 }
 
 .about{
-    font: (gilda display);
+    font: "gilda display";
     font-size: 60px;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
+    color: #262626;
 }
 
 .item1,.item3{
@@ -158,6 +158,7 @@ h3{
     height: 240px;
     background-size: 40px;
     width: 100%;
+    color: #262626;
 
 }
 .item2{
@@ -178,7 +179,8 @@ h3{
 }
 .support{
     font-size: 35px;
-    font: gilda display;                                                               
+    font: "gilda display"; 
+    color: #262626;                                                              
 }
 .more{
     color:#25A59E;
@@ -188,7 +190,7 @@ h3{
 }
 .special{ 
     font-size: 35px;
-    font: gilda display;
+    font: "gilda display";
     color: white;
 }
 .details{
@@ -199,7 +201,7 @@ h3{
 
 }
 .tickets{
-    font: urbanist;
+    font: "urbanist";
     color: white;
 }
 .memory{
@@ -210,18 +212,19 @@ h3{
     justify-content:space-around;
     margin-top: 150px;
     margin-right: 5px;
+    color: #262626;
 }
 .service{
-    font: urbanist;
+    font: "urbanist";
     font-size: 17px;
-    color: neutral;
+    color: #262626;
     padding-top: 10px;
     
 
 }
 .t{      
     
-    font: gilda display;
+    font: "gilda display";
     size: 30px;
     color:#25A59E;                                                          
     margin-bottom: 200px;}
@@ -259,6 +262,7 @@ h3{
     padding-top: 5px;
     font-size: 60px;
     background-size: 30px;
+    color: #262626;
 
 }
 .Video{
@@ -275,7 +279,7 @@ h3{
 }
 .Click1{
     display: flex;
-    margin-top: 300px;
+    margin-top: 205px;
 }
 .click{
     size: 30px;
@@ -286,20 +290,22 @@ h3{
 }
 .offer{
     
-    font: gilda display;
+    font: "gilda display";
     font-size: 60px;
     margin-left: 40px;
+    color: #262626;
 }
 .agent{
     margin-bottom: 50px;
     font-size: 20px;
-    font: urbanist;
-    margin-left: 50px;
+    font: "urbanist";
+    margin-left: 75px;
+    color: #595959;
 }
 
 .s{
     
-    font: gilda display;
+    font: "gilda display";
     size: 30px;
     color: #25A59E;
     font-size: 40px;
@@ -314,18 +320,11 @@ h3{
 .us{
     font-size: 20px;
     margin-left: 400px;
-    height: 20px;
+    height: 2px;
+    color: #595959;
+    ;  
+
+
+    
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
