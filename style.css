@@ -1,6 +1,7 @@
 :root{
     --blue:#25A59E;
 }
+
 .header{
     display: flex;
     justify-content: space-between;
@@ -28,7 +29,7 @@ body{
 }
 .flex{
     display: flex;
-    font-size: 400%;
+    font-size: 120px;
     justify-content: center;
     padding-inline:5px;
     font-family: "gilda dislay";
@@ -42,9 +43,10 @@ h1{
     ;
 }
 .Travel{
-    
+
     color: #25A59E;
     justify-content: space-between;
+    overflow: hidden;
 
 }
 .asians {
@@ -328,4 +330,3 @@ h4{
     font-family: "urbanist"; 
     margin-bottom: 80px;
 }
-
