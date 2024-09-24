@@ -333,3 +333,187 @@ h4{
     font-family: "urbanist"; 
     margin-bottom: 80px;
 }
+   
+@media screen and (max-width:600px) {
+    header{
+        width: 100%;
+        word-spacing: normal;
+    } 
+    .head{
+        margin-right: 20px;
+    }
+    .p-1{
+        margin-left: 20px;
+    }
+    h1{
+        font-size: 1.5em;
+        margin: 2px;
+    }
+    @media screen {
+        
+    .asians{
+        width: 100%;
+        height: 30px;
+        overflow-x: hidden;
+    }
+    .travel1,.travel2,.travel3{
+        width: 100%;
+        overflow: hidden;
+    }
+    .travel1{
+        position: absolute;
+        margin-bottom: 20px;
+        bottom: -30px;
+        height: 320px;
+    }
+    .travel2{
+        position: absolute;
+        margin-top: 30px;
+        top: 370px;
+        height: 225px;
+    }
+    .travel3{
+        bottom: -180px;
+        position: absolute;
+        margin-left: 30px;
+    }
+}
+.picture{
+    padding: 5px;
+    margin: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+    
+    .flex{
+        width: 100%;
+        margin-top: 20px;
+        font-size: 50px;}
+    .destination{
+        margin-top: 200px;
+        font-size: 50px;
+    }
+    @media screen {
+        .container{  
+            flex-direction: column;                     
+            align-items: center;
+            padding-right: 0px;
+            size: 20px;
+            inset-block: 5px;
+        }
+        .img2{
+            padding-left: 0px;
+            padding-right: 0px;
+            height: auto;
+            padding: 0px;
+            margin-right: 0px;
+        }
+        .item{
+            margin: 2px;
+            block-size: -20px;
+        }
+    }
+    .item1,.item3{
+        margin-right: -65px;
+        margin-left: -65px;
+    }
+    .item2{
+        margin-right: -65px;
+        margin-left: -65px;
+    }
+    .h3{
+        margin-bottom:-80px ;
+        font-size: 60px;
+    }
+    .about{
+        font-size: 90px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        margin: 5px;
+    }
+    .choose{
+        margin: 0px;
+        font-size: 25px;
+    }
+    .memory{
+        margin: 5px;
+        font-size: 70px;
+        
+    }
+    .service{
+        font-size: 30px;
+    }
+    .last{
+        flex-direction: column;
+    }
+    @media screen {
+        
+    .twoasians{
+        flex-direction: column;
+        margin-left: -10px;     
+                    }
+    }
+    .watch{
+        margin: 5px;
+        font-size: 65px;
+    }
+    @media screen {
+    .click{
+        justify-content: left;
+        margin-bottom: -50px;
+        margin-top: 90px;
+        margin-left:-550px;
+        padding-bottom:70px ;
+        padding-top: 70px;
+    }
+}
+    @media screen {
+        .Click1{
+        font-size: 20px;
+        margin: 0px;
+        
+        } 
+    }
+    .play{
+        margin: auto;
+        margin-top: 80px;
+        margin-left: 230px;
+    }
+    .offer{
+        margin-top: 90px;
+        font-size: 60px;
+        margin-left: 5px;
+        flex: none;
+    }
+    @media screen {
+        .path{
+            margin-left: 100px;
+            margin-bottom: 5px;
+            margin-top: 2px;
+            gap: 20px;
+            margin: -5px;
+        }
+        
+    }
+    @media screen {
+        .us{
+            margin: 60px;
+            margin-left: -500px;
+        }
+    }
+    .contact{
+        justify-content: space-around;
+    }
+
+.OFFER{
+    flex-direction: column;
+}
+.us{
+    justify-content: center;
+}
+}
+
+                                                    
+
+
+
