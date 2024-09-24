@@ -9,7 +9,8 @@
     margin-bottom:0px;
 }
 body{
-    margin-top: 90px;
+    margin-top: 40px;
+
 }
     
 .p-1{
@@ -29,12 +30,12 @@ body{
 }
 .flex{
     display: flex;
-    font-size: 120px;
+    font-size: 100px;
     justify-content: center;
     padding-inline:5px;
     font-family: "gilda dislay";
     text-align: center;
-    margin-top: 20px;
+    margin-top: 0px;
     
 }
 h1{
@@ -52,6 +53,7 @@ h1{
 .asians {
     height: 220px;
     margin-bottom: 65%;
+    overflow: hidden;
 }
 .travel1{
     position: absolute;
@@ -71,11 +73,12 @@ h1{
     height: 430px;
 }
 .travel3{
-    position: relative;
+    position: absolute;
     size: 100%; 
     margin-top: 50px;
     margin-left: 230px;     
     height: 600px;
+    overflow-y: hidden;
 }
 .destination{
     margin-top: -400px;
@@ -85,7 +88,7 @@ h3{
     font-size: 62px;
     text-align: center;
     padding-bottom: 0;
-    margin-bottom:20px;
+    margin-bottom:0px;
     color: #262626;
 }
 .choose{
@@ -93,14 +96,15 @@ h3{
     font-size: 25px;                              
     text-align: center;
     color: #262626;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     
 }
 .container{
     display: flex; 
-    width: 100%;
-    background:  #f1f1f1;
+    background-color:  #f1f1f1;
     justify-content: center;
+    margin: 0px;
+    padding-right: 2px;
 
 }
 .item{
@@ -141,23 +145,23 @@ h4{
     font-size: 60px;
     text-align: center;
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: -190px;
+    padding-bottom: -5px;
     color: #262626;
+    height: 280px;
 }
 
 .item1,.item3{
     background-color: white;
     margin-inline: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
     padding-top:20px ;
     padding-bottom: 50px;
-    margin-top: 40px;
-    margin-bottom: 70px;
-    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
     border-top: 2px solid #25A59E;
-    height: 240px;
-    background-size: 40px;
+    height: 280px;
     width: 100%;
     color: #262626;
 
@@ -166,14 +170,13 @@ h4{
     
     background-color:#25A59E;
     margin-inline: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
     padding-top:20px ;
     padding-bottom: 50px;
-    margin-top: 40px;
-    margin-bottom: 70px;
-    justify-content: space-around;
-    height: 240px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 280px;
     background-size: 40px;
     width: 100%;
 
@@ -211,7 +214,7 @@ h4{
     margin-bottom: 10px;
     font-weight: 100px;
     justify-content:space-around;
-    margin-top: 150px;
+    margin-top: 100px;
     margin-right: 5px;
     color: #262626;
 }
