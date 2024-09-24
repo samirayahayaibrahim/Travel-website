@@ -76,7 +76,7 @@ h1{
     position: absolute;
     size: 100%; 
     margin-top: 50px;
-    margin-left: 230px;     
+    margin-left: 0px;     
     height: 600px;
     overflow-y: hidden;
 }
